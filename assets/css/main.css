@@ -1936,6 +1936,10 @@
 	.major2 {
 		font-size: 40px;
 	}
+
+	.iconlist{
+		font-size: 30px;
+	}
 /* Image */
 
 	.image {
